@@ -12,7 +12,14 @@ This plugin allows the direct import files from the classic game **GT Legends** 
 
 You need your own copy of GT Legends. No game files are included.
 
-License: GPL-3.0-or-later
+---
+
+## Topics
+[Studio397 Forum](https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/)
 
 ## Blender Extensions
 [Blender Extensions](https://extensions.blender.org/add-ons/f1c-mts-importer/)
+
+---
+
+License: GPL-3.0-or-later
