@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "io_import_gtlegends"
+version = "0.8.0"
+name = "GT Legends Importer"
+tagline = "Import GT Legends cars and tracks"
+maintainer = "haunetal1990"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Import-Export"]
+
+[permissions]
+files = "Read game files and extract textures to a cache folder"
