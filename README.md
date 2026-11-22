@@ -16,7 +16,7 @@ You need your own copy of GT Legends. No game files are included.
 [Studio397 Forum](https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/)
 
 ## Blender Extensions
-[Blender Extensions](https://extensions.blender.org/add-ons/f1c-mts-importer/)
+[Blender Extensions](https://extensions.blender.org/approval-queue/io-import-gtlegends/)
 
 ---
 
