@@ -12,8 +12,6 @@ This plugin allows the direct import files from the classic game **GT Legends** 
 
 You need your own copy of GT Legends. No game files are included.
 
----
-
 ## Topics
 [Studio397 Forum](https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/)
 
